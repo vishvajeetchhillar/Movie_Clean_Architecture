@@ -21,5 +21,11 @@ namespace CleanMovie.Application
             var movies=_movierepository.GetAllMovies();
             return movies;
         }
+
+        Movie IMovieService.CreateMovie(Movie movie)
+        {
+            _movierepository.CreateMovie(movie);
+            return movie;
+        }
     }
 }
