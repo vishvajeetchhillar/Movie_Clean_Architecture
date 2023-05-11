@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Xml.Linq;
-
+//A comment line for the new branch
 namespace CleanMovie.Infrastructure
 {
     public class MovieRepository : IMovieRepository

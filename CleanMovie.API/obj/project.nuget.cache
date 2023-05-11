@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1g4+85AjeReerFLvkhnbN+08Znh2fL8EbgvEaaDdtfnntSNehuj71aBWIsaM5cHftSZhONDQv7TByyTFNjWajg==",
+  "dgSpecHash": "WNVnD8UddUflc4QwzR2EBzQsw1WIPoMgFvAX+u7SaB4M7d781dW7ssC+KZ4UHWnWy0P/LNxSnHLJU0Ktl3OLbQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vishvajeet.singh2\\Desktop\\VS 2022 ASP.NET MVC\\CleanMovie.Domain\\CleanMovie.API\\CleanMovie.API.csproj",
+  "projectFilePath": "C:\\Users\\vishvajeet.singh2\\Desktop\\VS 2022 ASP.NET MVC\\CleanMovie\\CleanMovie.API\\CleanMovie.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vishvajeet.singh2\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\vishvajeet.singh2\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

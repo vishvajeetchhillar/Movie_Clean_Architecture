@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vishvajeet.singh2\\Desktop\\VS 2022 ASP.NET MVC\\CleanMovie.Domain\\CleanMovie.Domain\\CleanMovie.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\vishvajeet.singh2\\Desktop\\VS 2022 ASP.NET MVC\\CleanMovie\\CleanMovie.Domain\\CleanMovie.Domain.csproj",
       "projectName": "CleanMovie.Domain",
-      "projectPath": "C:\\Users\\vishvajeet.singh2\\Desktop\\VS 2022 ASP.NET MVC\\CleanMovie.Domain\\CleanMovie.Domain\\CleanMovie.Domain.csproj",
+      "projectPath": "C:\\Users\\vishvajeet.singh2\\Desktop\\VS 2022 ASP.NET MVC\\CleanMovie\\CleanMovie.Domain\\CleanMovie.Domain.csproj",
       "packagesPath": "C:\\Users\\vishvajeet.singh2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vishvajeet.singh2\\Desktop\\VS 2022 ASP.NET MVC\\CleanMovie.Domain\\CleanMovie.Domain\\obj\\",
+      "outputPath": "C:\\Users\\vishvajeet.singh2\\Desktop\\VS 2022 ASP.NET MVC\\CleanMovie\\CleanMovie.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -230,11 +230,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\vishvajeet.singh2\\Desktop\\VS 2022 ASP.NET MVC\\CleanMovie.Domain\\CleanMovie.API\\CleanMovie.API.csproj",
+      "projectUniqueName": "C:\\Users\\vishvajeet.singh2\\Desktop\\VS 2022 ASP.NET MVC\\CleanMovie\\CleanMovie.API\\CleanMovie.API.csproj",
       "projectName": "CleanMovie.API",
-      "projectPath": "C:\\Users\\vishvajeet.singh2\\Desktop\\VS 2022 ASP.NET MVC\\CleanMovie.Domain\\CleanMovie.API\\CleanMovie.API.csproj",
+      "projectPath": "C:\\Users\\vishvajeet.singh2\\Desktop\\VS 2022 ASP.NET MVC\\CleanMovie\\CleanMovie.API\\CleanMovie.API.csproj",
       "packagesPath": "C:\\Users\\vishvajeet.singh2\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\vishvajeet.singh2\\Desktop\\VS 2022 ASP.NET MVC\\CleanMovie.Domain\\CleanMovie.API\\obj\\",
+      "outputPath": "C:\\Users\\vishvajeet.singh2\\Desktop\\VS 2022 ASP.NET MVC\\CleanMovie\\CleanMovie.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

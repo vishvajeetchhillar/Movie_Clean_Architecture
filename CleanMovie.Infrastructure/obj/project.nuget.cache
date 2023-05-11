@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ilpJB68KE+hwM1a76dxkCgpYE9zQaoGOhQvwTCk3qVnGeV5mP9NhP+8EKOYwRnWPiJ2P+ejKwZbgCoXorpEyJg==",
+  "dgSpecHash": "5ivsWxUM2ifDudqRKB1rGiBPK6IZHsCAenjYgKZMuhkSE6I0TEmM1DXjJ82ZP2PUBqLbHdRxGog9xkRC4gUxWQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\vishvajeet.singh2\\Desktop\\VS 2022 ASP.NET MVC\\CleanMovie.Domain\\CleanMovie.Infrastructure\\CleanMovie.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\vishvajeet.singh2\\Desktop\\VS 2022 ASP.NET MVC\\CleanMovie\\CleanMovie.Infrastructure\\CleanMovie.Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
