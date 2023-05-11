@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vishvajeet.singh2\\Desktop\\VS 2022 ASP.NET MVC\\CleanMovie.Domain\\CleanMovie.Infrastructure\\CleanMovie.Infrastructure.csproj": {}
+    "C:\\Users\\vishvajeet.singh2\\Desktop\\VS 2022 ASP.NET MVC\\CleanMovie\\CleanMovie.Infrastructure\\CleanMovie.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vishvajeet.singh2\\Desktop\\VS 2022 ASP.NET MVC\\CleanMovie.Domain\\CleanMovie.Application\\CleanMovie.Application.csproj": {
+    "C:\\Users\\vishvajeet.singh2\\Desktop\\VS 2022 ASP.NET MVC\\CleanMovie\\CleanMovie.Application\\CleanMovie.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vishvajeet.singh2\\Desktop\\VS 2022 ASP.NET MVC\\CleanMovie.Domain\\CleanMovie.Application\\CleanMovie.Application.csproj",
+        "projectUniqueName": "C:\\Users\\vishvajeet.singh2\\Desktop\\VS 2022 ASP.NET MVC\\CleanMovie\\CleanMovie.Application\\CleanMovie.Application.csproj",
         "projectName": "CleanMovie.Application",
-        "projectPath": "C:\\Users\\vishvajeet.singh2\\Desktop\\VS 2022 ASP.NET MVC\\CleanMovie.Domain\\CleanMovie.Application\\CleanMovie.Application.csproj",
+        "projectPath": "C:\\Users\\vishvajeet.singh2\\Desktop\\VS 2022 ASP.NET MVC\\CleanMovie\\CleanMovie.Application\\CleanMovie.Application.csproj",
         "packagesPath": "C:\\Users\\vishvajeet.singh2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vishvajeet.singh2\\Desktop\\VS 2022 ASP.NET MVC\\CleanMovie.Domain\\CleanMovie.Application\\obj\\",
+        "outputPath": "C:\\Users\\vishvajeet.singh2\\Desktop\\VS 2022 ASP.NET MVC\\CleanMovie\\CleanMovie.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,8 +33,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\vishvajeet.singh2\\Desktop\\VS 2022 ASP.NET MVC\\CleanMovie.Domain\\CleanMovie.Domain\\CleanMovie.Domain.csproj": {
-                "projectPath": "C:\\Users\\vishvajeet.singh2\\Desktop\\VS 2022 ASP.NET MVC\\CleanMovie.Domain\\CleanMovie.Domain\\CleanMovie.Domain.csproj"
+              "C:\\Users\\vishvajeet.singh2\\Desktop\\VS 2022 ASP.NET MVC\\CleanMovie\\CleanMovie.Domain\\CleanMovie.Domain.csproj": {
+                "projectPath": "C:\\Users\\vishvajeet.singh2\\Desktop\\VS 2022 ASP.NET MVC\\CleanMovie\\CleanMovie.Domain\\CleanMovie.Domain.csproj"
               }
             }
           }
@@ -68,14 +68,14 @@
         }
       }
     },
-    "C:\\Users\\vishvajeet.singh2\\Desktop\\VS 2022 ASP.NET MVC\\CleanMovie.Domain\\CleanMovie.Domain\\CleanMovie.Domain.csproj": {
+    "C:\\Users\\vishvajeet.singh2\\Desktop\\VS 2022 ASP.NET MVC\\CleanMovie\\CleanMovie.Domain\\CleanMovie.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vishvajeet.singh2\\Desktop\\VS 2022 ASP.NET MVC\\CleanMovie.Domain\\CleanMovie.Domain\\CleanMovie.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\vishvajeet.singh2\\Desktop\\VS 2022 ASP.NET MVC\\CleanMovie\\CleanMovie.Domain\\CleanMovie.Domain.csproj",
         "projectName": "CleanMovie.Domain",
-        "projectPath": "C:\\Users\\vishvajeet.singh2\\Desktop\\VS 2022 ASP.NET MVC\\CleanMovie.Domain\\CleanMovie.Domain\\CleanMovie.Domain.csproj",
+        "projectPath": "C:\\Users\\vishvajeet.singh2\\Desktop\\VS 2022 ASP.NET MVC\\CleanMovie\\CleanMovie.Domain\\CleanMovie.Domain.csproj",
         "packagesPath": "C:\\Users\\vishvajeet.singh2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vishvajeet.singh2\\Desktop\\VS 2022 ASP.NET MVC\\CleanMovie.Domain\\CleanMovie.Domain\\obj\\",
+        "outputPath": "C:\\Users\\vishvajeet.singh2\\Desktop\\VS 2022 ASP.NET MVC\\CleanMovie\\CleanMovie.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -128,14 +128,14 @@
         }
       }
     },
-    "C:\\Users\\vishvajeet.singh2\\Desktop\\VS 2022 ASP.NET MVC\\CleanMovie.Domain\\CleanMovie.Infrastructure\\CleanMovie.Infrastructure.csproj": {
+    "C:\\Users\\vishvajeet.singh2\\Desktop\\VS 2022 ASP.NET MVC\\CleanMovie\\CleanMovie.Infrastructure\\CleanMovie.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vishvajeet.singh2\\Desktop\\VS 2022 ASP.NET MVC\\CleanMovie.Domain\\CleanMovie.Infrastructure\\CleanMovie.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\vishvajeet.singh2\\Desktop\\VS 2022 ASP.NET MVC\\CleanMovie\\CleanMovie.Infrastructure\\CleanMovie.Infrastructure.csproj",
         "projectName": "CleanMovie.Infrastructure",
-        "projectPath": "C:\\Users\\vishvajeet.singh2\\Desktop\\VS 2022 ASP.NET MVC\\CleanMovie.Domain\\CleanMovie.Infrastructure\\CleanMovie.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\vishvajeet.singh2\\Desktop\\VS 2022 ASP.NET MVC\\CleanMovie\\CleanMovie.Infrastructure\\CleanMovie.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\vishvajeet.singh2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vishvajeet.singh2\\Desktop\\VS 2022 ASP.NET MVC\\CleanMovie.Domain\\CleanMovie.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\vishvajeet.singh2\\Desktop\\VS 2022 ASP.NET MVC\\CleanMovie\\CleanMovie.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -157,8 +157,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\vishvajeet.singh2\\Desktop\\VS 2022 ASP.NET MVC\\CleanMovie.Domain\\CleanMovie.Application\\CleanMovie.Application.csproj": {
-                "projectPath": "C:\\Users\\vishvajeet.singh2\\Desktop\\VS 2022 ASP.NET MVC\\CleanMovie.Domain\\CleanMovie.Application\\CleanMovie.Application.csproj"
+              "C:\\Users\\vishvajeet.singh2\\Desktop\\VS 2022 ASP.NET MVC\\CleanMovie\\CleanMovie.Application\\CleanMovie.Application.csproj": {
+                "projectPath": "C:\\Users\\vishvajeet.singh2\\Desktop\\VS 2022 ASP.NET MVC\\CleanMovie\\CleanMovie.Application\\CleanMovie.Application.csproj"
               }
             }
           }
@@ -172,6 +172,28 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
